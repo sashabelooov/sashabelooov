@@ -24,7 +24,6 @@
 - 🤖 In ML, I work with **Pandas**, **Matplotlib**, train models, and built **GPT-2 from scratch**
 - 🔤 Implemented **BPE (Byte Pair Encoding)** tokenizer — similar to OpenAI's tiktoken
 - 🚀 Currently learning: **FastAPI · Docker · CI/CD · Nginx · Redis · Celery · Server Deployment**
-- 🌍 Also improving my English (beginner → pre-intermediate, every day!)
 
 ---
 

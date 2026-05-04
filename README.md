@@ -66,6 +66,3 @@
 
 ---
 
-<p align="center">
-  📍 Tashkent · 📧 beloovsasha23@gmail.com
-</p>
